@@ -53,7 +53,7 @@ const Experience = () => {
               <h4>Git/GitHub</h4>
             </article>
             <article className="experience__details">
-              <BsFillPatchCheckFill className="experience__details-icon" />
+            <BsFillPatchCheckFill className="experience__details-icon" />
               <h4>Node.js</h4>
             </article>
             <article className="experience__details">
